@@ -16,7 +16,7 @@ My main interests are healthcare data, clinical decision support, bioinformatics
 
 ---
 
-# Portfolio Focus
+## Portfolio Focus
 
 This portfolio is focused on projects that show my ability to work with:
 
@@ -30,7 +30,7 @@ This portfolio is focused on projects that show my ability to work with:
 
 ---
 
-# Selected Projects
+## Selected Projects
 
 | No. | Project | Area | Status |
 |---|---|---|---|
@@ -162,14 +162,15 @@ The project resulted in a structured analysis of adherence patterns in long-term
 
 ---
 
-# 04 Resume
+## 04 Resume
 [Download my resume](Barbora_Besedova_Resume.pdf)
 
 
-# 05 · Contact
+## 05 · Contact
 **Email:** besbara@seznam.cz  
 **Mobile:** +34632330839
 **GitHub:** [github.com/besedbar](https://github.com/besedbar)
+**LinkedIN:** [www.linkedin.com/in/barbora-besedová](www.linkedin.com/in/barbora-besedová-9026713b9)
 
 ---
 
