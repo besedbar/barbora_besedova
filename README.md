@@ -6,8 +6,6 @@ Medical Electronics · Biomedical Data Analysis · Machine Learning · Healthcar
 
 ---
 
-# 01 · Introduction
-
 Hello world, I'm Barbora!
 
 I am a Bioinformatics and Data Science student with a background in Medical Electronics, biomedical data analysis and software development.
@@ -18,7 +16,7 @@ My main interests are healthcare data, clinical decision support, bioinformatics
 
 ---
 
-# 02 · Portfolio Focus
+# Portfolio Focus
 
 This portfolio is focused on projects that show my ability to work with:
 
@@ -32,7 +30,7 @@ This portfolio is focused on projects that show my ability to work with:
 
 ---
 
-# 03 · Selected Projects
+# Selected Projects
 
 | No. | Project | Area | Status |
 |---|---|---|---|
@@ -93,7 +91,7 @@ The project is currently in progress. It demonstrates my ability to work with al
 
 ---
 
-## 03 · Low-Level MCU Programming
+## Low-Level MCU Programming
 
 **Area:** Embedded systems, microcontroller programming  
 **Period:** 04/2026  
@@ -117,7 +115,7 @@ The repository contains basic low-level MCU programming exercises and examples. 
 
 ---
 
-## 04 · Vision and Hearing Signal Modeling
+## Vision and Hearing Signal Modeling
 
 **Area:** Biomedical signal processing  
 **Role:** Student  
@@ -140,7 +138,7 @@ The project demonstrates my ability to work with biomedical signals, mathematica
 
 ---
 
-## 05 · Bachelor Thesis: Data Analysis of Adherence in Patients with Schizophrenia
+## Bachelor Thesis: Data Analysis of Adherence in Patients with Schizophrenia
 
 **Area:** Healthcare data analysis, digital health  
 **Period:** 05/2025  
