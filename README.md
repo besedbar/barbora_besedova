@@ -1,7 +1,7 @@
-Barbora Besedová</h1>
+# </h1>Barbora Besedová</h1>
 
 
-<b>Bioinformatics & Data Science Portfolio</b><br>
+## <b>Bioinformatics & Data Science Portfolio</b><br>
 Medical Electronics · Biomedical Data Analysis · Machine Learning · Healthcare Software
 
 ---
