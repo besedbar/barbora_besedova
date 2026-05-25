@@ -159,11 +159,11 @@ The project resulted in a structured analysis of adherence patterns in long-term
 
 ---
 
-## 04 Resume
+## Resume
 [Download my resume](Barbora_Besedova_Resume.pdf)
 
 
-## 05 · Contact
+## Contact
 **Email:** besbara@seznam.cz  
 **Mobile:** +34632330839
 **GitHub:** [github.com/besedbar](https://github.com/besedbar)
