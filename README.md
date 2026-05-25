@@ -32,13 +32,12 @@ This portfolio is focused on projects that show my ability to work with:
 
 ## Selected Projects
 
-| No. | Project | Area | Status |
-|---|---|---|---|
-| 01 | [Variant Database Comparison Tool](https://github.com/besedbar/Databases_for_Genomic_Data) | Bioinformatics / Genomic Data | 04/2026 | 
-| 02 | [AI Agent for Othello](https://github.com/besedbar/AI_and_Data_Science_in_Aeronautics) | Artificial Intelligence | in progress |
-| 03 | [Low-Level MCU Programming](https://github.com/besedbar/C_programming_embedded_systems_basics) | Embedded Systems | 04/2026 |
-| 04 | Vision and Hearing Signal Modeling | Biomedical Signal Processing | Academic project |
-| 05 | Bachelor Thesis: Adherence Analysis in Schizophrenia | Healthcare Data Analysis | 05/2025 |
+| Project | Area | Status |
+|---|---|---|
+| [Variant Database Comparison Tool](https://github.com/besedbar/Databases_for_Genomic_Data) | Bioinformatics / Genomic Data | 04/2026 | 
+| [AI Agent for Othello](https://github.com/besedbar/AI_and_Data_Science_in_Aeronautics) | Artificial Intelligence | in progress |
+| [Low-Level MCU Programming](https://github.com/besedbar/C_programming_embedded_systems_basics) | Embedded Systems | 04/2026 |
+|
 
 ---
 
