@@ -1,4 +1,4 @@
-# </h1>Barbora Besedová</h1>
+<h1>Barbora Besedová</h1>
 
 
 ## <b>Bioinformatics & Data Science Portfolio</b><br>
