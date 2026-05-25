@@ -39,7 +39,7 @@ This portfolio is focused on projects that show my ability to work with:
 | [Low-Level MCU Programming](https://github.com/besedbar/C_programming_embedded_systems_basics) | Embedded Systems | 04/2026 |
 ---
 
-## 01 · Variant Database Comparison Tool
+## 1 · Variant Database Comparison Tool
 
 **Area:** Bioinformatics, genomic variant analysis  
 **Context:** Extension on the Delfos platform  
@@ -64,7 +64,7 @@ The result was a variant database comparison-oriented tool designed as an extens
 
 ---
 
-## 02 · AI Agent for Othello
+## 2 · AI Agent for Othello
 
 **Area:** Artificial Intelligence, game strategy  
 **Period:** 05/2026 – in progress  
@@ -88,7 +88,7 @@ The project is currently in progress. It demonstrates my ability to work with al
 
 ---
 
-## Low-Level MCU Programming
+## 3 · Low-Level MCU Programming
 
 **Area:** Embedded systems, microcontroller programming  
 **Period:** 04/2026  
@@ -135,7 +135,7 @@ The project demonstrates my ability to work with biomedical signals, mathematica
 
 ---
 
-## Bachelor Thesis: Data Analysis of Adherence in Patients with Schizophrenia
+## 4 Bachelor Thesis: Data Analysis of Adherence in Patients with Schizophrenia
 
 **Area:** Healthcare data analysis, digital health  
 **Period:** 05/2025  
