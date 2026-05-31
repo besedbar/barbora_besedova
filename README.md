@@ -87,6 +87,7 @@ The result was a variant database comparison-oriented tool designed as an extens
 ### Skills demonstrated
 
 `bioinformatics` · `variant analysis` · `data processing` · `software development` · `technical documentation`
+
 ---
 
 
