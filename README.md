@@ -115,7 +115,7 @@ The repository contains basic low-level MCU programming exercises and examples. 
 
 ---
 
-## 4 Bachelor Thesis: Data Analysis of Adherence in Patients with Schizophrenia
+## 4 · Bachelor Thesis: Data Analysis of Adherence in Patients with Schizophrenia
 
 **Area:** Healthcare data analysis, digital health  
 **Period:** 05/2025  
@@ -145,9 +145,9 @@ The project resulted in a structured analysis of adherence patterns in long-term
 
 ## Contact
 **Email:** besbara@seznam.cz  
-**Mobile:** +34632330839
-**GitHub:** [github.com/besedbar](https://github.com/besedbar)
-**LinkedIN:** [www.linkedin.com/in/barbora-besedová](www.linkedin.com/in/barbora-besedová-9026713b9)
+**Mobile:** +34632330839  
+**GitHub:** [github.com/besedbar](https://github.com/besedbar)  
+**LinkedIN:** [www.linkedin.com/in/barbora-besedová](www.linkedin.com/in/barbora-besedová-9026713b9)  
 
 ---
 
