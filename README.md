@@ -150,7 +150,3 @@ The project resulted in a structured analysis of adherence patterns in long-term
 **LinkedIN:** [www.linkedin.com/in/barbora-besedová](www.linkedin.com/in/barbora-besedová-9026713b9)  
 
 ---
-
-<p align="center">
-  <i>This portfolio reflects my academic journey through medical electronics, bioinformatics and data science — and my goal to work on meaningful tools at the intersection of healthcare, data and technology.</i>
-</p>
