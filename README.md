@@ -1,7 +1,7 @@
 <h1>Barbora Besedová</h1>
 
 
-## <b>Bioinformatics & Data Science Portfolio</b><br>
+## <span style="font-family: Georgia;"><b>Bioinformatics & Data Science Portfolio</b><br></span>
 Medical Electronics · Biomedical Data Analysis · Machine Learning · Healthcare Software
 
 ---
