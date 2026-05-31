@@ -8,9 +8,9 @@ Medical Electronics · Biomedical Data Analysis · Machine Learning · Healthcar
 
 Hello world, I'm Barbora!
 
-I am a Bioinformatics and Data Science student with a background in Medical Electronics, biomedical data analysis and software development.
+I am a Bioinformatics and Data Science student with a background in medical electronics, biomedical data analysis and software development.
 
-This GitHub profile serves as my academic and technical portfolio. I use it to collect selected school projects, assignments and research-related work that demonstrate my skills in programming, data analysis, machine learning, bioinformatics and medical software development.
+This GitHub profile serves as my academic and technical portfolio. I use it to collect selected school projects, assignments and research-related work that demonstrate my skills in programming, data analysis, machine learning, bioinformatics.
 
 My main interests are healthcare data, clinical decision support, bioinformatics pipelines, genomic variant analysis, biomedical signal processing and digital health applications.
 
@@ -34,37 +34,14 @@ This portfolio is focused on projects that show my ability to work with:
 
 | Project | Area | Status |
 |---|---|---|
-| [Variant Database Comparison Tool](https://github.com/besedbar/Databases_for_Genomic_Data) | Bioinformatics / Genomic Data | 04/2026 | 
 | [AI Agent for Othello](https://github.com/besedbar/AI_and_Data_Science_in_Aeronautics) | Artificial Intelligence | in progress |
+| [Variant Database Comparison Tool](https://github.com/besedbar/Databases_for_Genomic_Data) | Bioinformatics / Genomic Data | 04/2026 | 
 | [Low-Level MCU Programming](https://github.com/besedbar/C_programming_embedded_systems_basics) | Embedded Systems | 04/2026 |
----
-
-## 1 · Variant Database Comparison Tool
-
-**Area:** Bioinformatics, genomic variant analysis  
-**Context:** Extension on the Delfos platform  
-**Period:** 04/2026  
-**Role:** Student developer / bioinformatics-oriented software work  
-
-### Challenge
-
-Genomic variant data can be stored and interpreted across multiple databases and resources. The goal of this project was to support comparison of variant information and make the analysis process more structured and accessible.
-
-### Approach
-
-The project focused on working with variant-related data and designing a tool that could support comparison across different sources. The work involved understanding the structure of variant data, identifying relevant attributes and preparing logic for database comparison.
-
-## Solution
-
-The result was a variant database comparison-oriented tool designed as an extension of the Delfos platform. The project connects my interests in bioinformatics, data processing and practical software development for research or clinical-support environments.
-
-### Skills demonstrated
-
-`bioinformatics` · `variant analysis` · `data processing` · `software development` · `technical documentation`
+| [Data_Analysis_of_Adherence_with_Schizophrenia_Patient](https://github.com/barbora-besedova/Adherence_In_Schizophrenic_Patients) | Data Analysis | 05/2025 |
 
 ---
 
-## 2 · AI Agent for Othello
+## 1 · AI Agent for Othello
 
 **Area:** Artificial Intelligence, game strategy  
 **Period:** 05/2026 – in progress  
@@ -88,6 +65,31 @@ The project is currently in progress. It demonstrates my ability to work with al
 
 ---
 
+## 2 · Variant Database Comparison Tool
+
+**Area:** Bioinformatics, genomic variant analysis  
+**Context:** Extension on the Delfos platform  
+**Period:** 04/2026  
+**Role:** Student developer / bioinformatics-oriented software work  
+
+### Challenge
+
+Genomic variant data can be stored and interpreted across multiple databases and resources. The goal of this project was to support comparison of variant information and make the analysis process more structured and accessible.
+
+### Approach
+
+The project focused on working with variant-related data and designing a tool that could support comparison across different sources. The work involved understanding the structure of variant data, identifying relevant attributes and preparing logic for database comparison.
+
+## Solution
+
+The result was a variant database comparison-oriented tool designed as an extension of the Delfos platform. The project connects my interests in bioinformatics, data processing and practical software development for research or clinical-support environments.
+
+### Skills demonstrated
+
+`bioinformatics` · `variant analysis` · `data processing` · `software development` · `technical documentation`
+---
+
+
 ## 3 · Low-Level MCU Programming
 
 **Area:** Embedded systems, microcontroller programming  
@@ -109,29 +111,6 @@ The repository contains basic low-level MCU programming exercises and examples. 
 ### Skills demonstrated
 
 `C` · `embedded systems` · `microcontrollers` · `low-level programming` · `hardware-oriented thinking`
-
----
-
-## Vision and Hearing Signal Modeling
-
-**Area:** Biomedical signal processing  
-**Role:** Student  
-
-### Challenge
-
-Biomedical signals often require mathematical modeling and interpretation. This project focused on signal modeling related to vision and hearing.
-
-### Approach
-
-The work involved applying signal processing concepts to model selected aspects of sensory systems. The project helped connect theoretical knowledge with computational implementation.
-
-### Solution
-
-The project demonstrates my ability to work with biomedical signals, mathematical models and computational tools used in medical electronics and bioengineering.
-
-### Skills demonstrated
-
-`signal processing` · `biomedical modeling` · `MATLAB` · `Python` · `medical electronics`
 
 ---
 
