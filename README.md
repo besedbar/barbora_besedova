@@ -57,7 +57,7 @@ The project involves implementing the game logic, representing possible moves an
 
 ### Solution
 
-The project is currently in progress. It demonstrates my ability to work with algorithmic problem solving, structured code and AI-based decision processes.
+The project is currently in progress and will be finished furing June 2026. It should demonstrate my ability to work with algorithmic problem solving, structured code and AI-based decision processes.
 
 ### Skills demonstrated
 
