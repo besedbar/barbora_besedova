@@ -147,6 +147,6 @@ The project resulted in a structured analysis of adherence patterns in long-term
 **Email:** besbara@seznam.cz  
 **Mobile:** +34632330839  
 **GitHub:** [github.com/barbora-besedova](https://github.com/barbora-besedova)  
-**LinkedIN:** [https://www.linkedin.com/in/barbora-besedova]([www.linkedin.com/in/barbora-besedová-9026713b9](https://www.linkedin.com/in/barbora-besedov%C3%A1-9026713b9))  
+**LinkedIN:** [https://www.linkedin.com/in/barbora-besedova](https://www.linkedin.com/in/barbora-besedov%C3%A1-9026713b9)
 
 ---
