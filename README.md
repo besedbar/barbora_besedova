@@ -42,6 +42,7 @@ This portfolio is focused on projects that show my ability to work with:
 ---
 
 ## 1 · AI Agent for Othello
+[Repository](https://github.com/barbora-besedova/AI_Agent_for_Othello)
 
 **Area:** Artificial Intelligence, game strategy  
 **Period:** 05/2026 – in progress  
@@ -66,6 +67,7 @@ The project is currently in progress and will be finished furing June 2026. It s
 ---
 
 ## 2 · Variant Database Comparison Tool
+[Repository](https://github.com/barbora-besedova/Variant_Database_Comparison_Tool)
 
 **Area:** Bioinformatics, genomic variant analysis  
 **Context:** Extension on the Delfos platform  
@@ -92,6 +94,7 @@ The result was a variant database comparison-oriented tool designed as an extens
 
 
 ## 3 · Low-Level MCU Programming
+[Repository](https://github.com/barbora-besedova/Low-Level_MCU_Programming)
 
 **Area:** Embedded systems, microcontroller programming  
 **Period:** 04/2026  
@@ -115,7 +118,8 @@ The repository contains basic low-level MCU programming exercises and examples. 
 
 ---
 
-## 4 · Bachelor Thesis: Data Analysis of Adherence in Patients with Schizophrenia
+## 4 · Bachelor Thesis: Data Analysis of Adherence with Schizophrenia Patients 
+[Repository](https://github.com/barbora-besedova/Data_Analysis_of_Adherence_in_Patients_with_Schizophrenia)
 
 **Area:** Healthcare data analysis, digital health  
 **Period:** 05/2025  
