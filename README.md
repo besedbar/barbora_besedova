@@ -34,8 +34,8 @@ This portfolio is focused on projects that show my ability to work with:
 
 | Project | Area | Status |
 |---|---|---|
-| [AI Agent for Othello](https://github.com/besedbar/AI_Agent_for_Othello) | Artificial Intelligence | in progress |
-| [Variant Database Comparison Tool](https://github.com/besedbar/Variant_Database_Comparison_Tool) | Bioinformatics / Genomic Data | 04/2026 | 
+| [AI Agent for Othello](https://github.com/barbora-besedova/AI_Agent_for_Othello) | Artificial Intelligence | in progress |
+| [Variant Database Comparison Tool](https://github.com/barbora-besedova/Variant_Database_Comparison_Tool) | Bioinformatics / Genomic Data | 04/2026 | 
 | [Low-Level MCU Programming](https://github.com/barbora-besedova/Low-Level_MCU_Programming) | Embedded Systems | 04/2026 |
 | [Data_Analysis_of_Adherence_with_Schizophrenia_Patient](https://github.com/barbora-besedova/Data_Analysis_of_Adherence_with_Schizophrenia_Patient) | Data Analysis | 05/2025 |
 
