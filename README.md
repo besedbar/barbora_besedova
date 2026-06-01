@@ -144,7 +144,7 @@ The project resulted in a structured analysis of adherence patterns in long-term
 ---
 
 ## Resume
-[Download my resume](Barbora_Besedova_Resume.pdf)
+[Download my resume](barbora_besedova_resume_.pdf)
 
 
 ## Contact
